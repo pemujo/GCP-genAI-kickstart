@@ -1,1 +1,1 @@
-This repo includes notebooks to do basic operaitons with Google Cloud's GenAI services
+This repo includes notebooks to do basic operaitons with Google Cloud's GenAI services including Gemini and Imagen
